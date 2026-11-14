@@ -1,0 +1,5 @@
+# Fin de línea LF en el repositorio y al clonar, también en Windows (Prettier exige LF)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
